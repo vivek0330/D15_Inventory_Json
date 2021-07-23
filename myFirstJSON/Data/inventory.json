@@ -1,0 +1,22 @@
+{
+      "inventoryDetails" : [
+            {
+                  "name" : "Basmati",
+                  "weight" : 35.45,
+                  "pricePerKg" : 60.78,
+                  "type" : "Rice"
+            },
+            {
+                  "name" : "Dal",
+                  "weight" : 45.45,
+                  "pricePerKg" : 60.78,
+                  "type" : "Pulse"
+            },
+            {
+                  "name" : "Multi Grain",
+                  "weight" : 35.45,
+                  "pricePerKg" : 60.78,
+                  "type" : "Wheat"
+            }
+      ]
+}
